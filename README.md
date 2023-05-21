@@ -27,5 +27,4 @@ Individiual licensing arrangements can be made if this is an issue for your proj
 
 ## 👏 Acknowledgments
 
-<div> Icons made by <a href="https://www.flaticon.com/authors/uniconlabs" title="Uniconlabs"> Uniconlabs </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>
 * **Billie Thompson** - *README & Contribution Templates* - [PurpleBooth](https://github.com/PurpleBooth)
